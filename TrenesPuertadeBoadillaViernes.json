@@ -1,0 +1,450 @@
+{
+    "parada_origen": "Ciudad del Cine",
+    "parada_destino": "Puerta de Boadilla",
+    "horarios": [
+        {
+            "hora": "6:05",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "6:14",
+            "frecuencia": "9 minutos"
+        },
+        {
+            "hora": "6:24",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "6:34",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "6:44",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "6:54",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "7:04",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "7:10",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "7:16",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "7:22",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "7:28",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "7:34",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "7:40",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "7:46",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "7:52",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "7:58",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:04",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:10",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:16",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:22",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:28",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:34",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:40",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:46",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:52",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "8:58",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:04",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:10",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:16",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:22",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:28",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:34",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:40",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:46",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:52",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "9:58",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "10:04",
+            "frecuencia": "6 minutos"
+        },
+        {
+            "hora": "10:17",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "10:30",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "10:43",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "10:56",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "11:09",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "11:22",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "11:35",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "11:48",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "12:01",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "12:14",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "12:27",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "12:37",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "12:47",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "12:57",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "13:07",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "13:17",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "13:27",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "13:37",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "13:47",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "13:57",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "14:07",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "14:17",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "14:27",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "14:37",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "14:47",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "14:57",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "15:07",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "15:17",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "15:27",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "15:37",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "15:47",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "15:57",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "16:07",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "16:17",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "16:27",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "16:37",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "16:47",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "16:57",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "17:07",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "17:17",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "17:27",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "17:37",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "17:47",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "17:57",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "18:07",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "18:17",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "18:27",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "18:37",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "18:47",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "18:57",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "19:07",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "19:17",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "19:27",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "19:37",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "19:47",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "19:57",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "20:08",
+            "frecuencia": "10 minutos"
+        },
+        {
+            "hora": "20:19",
+            "frecuencia": "11 minutos"
+        },
+        {
+            "hora": "20:30",
+            "frecuencia": "11 minutos"
+        },
+        {
+            "hora": "20:43",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "20:56",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "21:09",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "21:22",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "21:35",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "21:48",
+            "frecuencia": "13 minutos"
+        },
+        {
+            "hora": "22:02",
+            "frecuencia": "14 minutos"
+        },
+        {
+            "hora": "22:16",
+            "frecuencia": "14 minutos"
+        },
+        {
+            "hora": "22:30",
+            "frecuencia": "14 minutos"
+        },
+        {
+            "hora": "23:01",
+            "frecuencia": "31 minutos"
+        },
+        {
+            "hora": "23:32",
+            "frecuencia": "31 minutos"
+        },
+        {
+            "hora": "00:03",
+            "frecuencia": "31 minutos"
+        },
+        {
+            "hora": "00:34",
+            "frecuencia": "31 minutos"
+        },
+        {
+            "hora": "01:04",
+            "frecuencia": "30 minutos"
+        },
+        {
+            "hora": "01:39",
+            "frecuencia": "31 minutos"
+        }
+    ]
+}
