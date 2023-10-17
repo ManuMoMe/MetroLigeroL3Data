@@ -314,202 +314,182 @@
         },
         {
             "hora": "14:47",
-            "frecuencia": "10 minutos",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
             "hora": "14:55",
-            "frecuencia": "10 minutos",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
-            "hora": "15:05",
-            "frecuencia": "10 minutos",
+            "hora": "15:07",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
-            "hora": "15:15",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "15:25",
-            "frecuencia": "10 minutos",
+            "hora": "15:20",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
             "hora": "15:35",
-            "frecuencia": "10 minutos",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
-            "hora": "15:45",
-            "frecuencia": "10 minutos",
+            "hora": "15:47",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
-            "hora": "15:55",
-            "frecuencia": "10 minutos",
+            "hora": "16:00",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
-            "hora": "16:05",
-            "frecuencia": "10 minutos",
+            "hora": "16:13",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
-            "hora": "16:15",
-            "frecuencia": "10 minutos",
+            "hora": "16:26",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
-            "hora": "16:25",
-            "frecuencia": "10 minutos",
+            "hora": "16:39",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
-            "hora": "16:35",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "16:45",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "16:55",
-            "frecuencia": "10 minutos",
+            "hora": "16:52",
+            "frecuencia": "13 minutos",
             "posible_incidencia": ""
         },
         {
             "hora": "17:05",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "17:15",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "17:25",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "17:35",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "17:45",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "17:55",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "18:05",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "18:15",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "18:25",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "18:35",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "18:45",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "18:55",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "19:05",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "19:15",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "19:25",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "19:35",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "19:45",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "19:55",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "20:05",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "20:15",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "20:25",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "20:35",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "20:45",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "20:55",
-            "frecuencia": "10 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "21:04",
-            "frecuencia": "9 minutos",
-            "posible_incidencia": ""
-        },
-        {
-            "hora": "21:17",
             "frecuencia": "13 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "17:18",
+            "frecuencia": "13 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "17:31",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "17:41",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "17:51",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "18:01",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "18:11",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "18:21",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "18:31",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "18:41",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "18:51",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "19:01",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "19:11",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "19:21",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "19:31",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "19:41",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "19:51",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "20:01",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "20:11",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "20:21",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "20:31",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "20:41",
+            "frecuencia": "10 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "20:51",
+            "frecuencia": "12 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "21:03",
+            "frecuencia": "13 minutos",
+            "posible_incidencia": ""
+        },
+        {
+            "hora": "21:16",
+            "frecuencia": "14 minutos",
             "posible_incidencia": ""
         },
         {
